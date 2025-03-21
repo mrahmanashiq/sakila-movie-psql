@@ -18,7 +18,7 @@ The database includes the following main tables:
 - `inventory` - Available movie copies  
 - `payment` - Payment transactions  
 
-📜 See [`schema.sql`](schema.sql) for the full database structure.
+📜 See ([sakila-mv-schema-psql.sql](https://github.com/mrahmanashiq/sakila-movie-psql/blob/master/sakila-mv-schema-psql.sql)) for the full database structure.
 
 ---
 
